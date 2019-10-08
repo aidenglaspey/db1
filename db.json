@@ -1,0 +1,29 @@
+{
+
+"Actor": [
+    {
+        "id": "Artemis",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/Artemis.mov",
+        "name": "Artemis",
+        "race": "Human",
+        "age": 34,
+        "occupation": "Soldier",
+        "traits": [
+            "Quick-witted"
+        ]
+    },
+    {
+        "id": "Peter",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/Death.mov",
+        "name": "Peter",
+        "race": "Undead",
+        "age": 36,
+        "occupation": "Harvester",
+        "traits": [
+            "Gallows humor"
+        ]
+    }
+]
+
+}
+
