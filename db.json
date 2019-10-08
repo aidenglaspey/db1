@@ -2,25 +2,179 @@
 
 "Actor": [
     {
-        "id": "Artemis",
+        "id": "artemis",
         "video": "assets/img/FINAL_VIDEO OUTPUTS/Artemis.mov",
         "name": "Artemis",
         "race": "Human",
-        "age": 34,
-        "occupation": "Soldier",
+        "age": "34",
+        "occupation": "Mercenary",
         "traits": [
             "Quick-witted"
         ]
     },
     {
-        "id": "Peter",
+        "id": "babymac",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/BabyMac.mov",
+        "name": "BabyMac",
+        "race": "Mac",
+        "age": "3 Months",
+        "occupation": "Infant",
+        "traits": [
+            "Unending appetite"
+        ]
+    },
+    {
+        "id": "clogg",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/clogg.mov",
+        "name": "Clogg",
+        "race": "Clogg",
+        "age": "6185",
+        "occupation": "Cab Driver",
+        "traits": [
+            "No-nonsense attitude"
+        ]
+    },
+    {
+        "id": "dazzle",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/Dazzle.mov",
+        "name": "Dazzle",
+        "race": "Humanoid",
+        "age": "25",
+        "occupation": "Dancer",
+        "traits": [
+            "Quiet"
+        ]
+    },
+    {
+        "id": "death",
         "video": "assets/img/FINAL_VIDEO OUTPUTS/Death.mov",
-        "name": "Peter",
+        "name": "Death",
         "race": "Undead",
-        "age": 36,
+        "age": "???",
         "occupation": "Harvester",
         "traits": [
             "Gallows humor"
+        ]
+    },
+    {
+        "id": "earthgolem",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/Earth Golem.mov",
+        "name": "Tom",
+        "race": "Earth Golem",
+        "age": "186",
+        "occupation": "Retail Clerk",
+        "traits": [
+            "Smelly"
+        ]
+    },
+    {
+        "id": "fatmac",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/FatMac.mov",
+        "name": "FatMac",
+        "race": "Mac",
+        "age": "52",
+        "occupation": "Competitive Eater",
+        "traits": [
+            "Obese"
+        ]
+    },
+    {
+        "id": "hound",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/Hound.mov",
+        "name": "Fido",
+        "race": "Canis",
+        "age": "7",
+        "occupation": "Companion",
+        "traits": [
+            "A good boy"
+        ]
+    },
+    {
+        "id": "huntermac",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/HunterMac.mov",
+        "name": "HunterMac",
+        "race": "Mac",
+        "age": "40",
+        "occupation": "Hunter",
+        "traits": [
+            "Pacifist at heart"
+        ]
+    },
+    {
+        "id": "josephina",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/Josephina.mov",
+        "name": "Josephina",
+        "race": "Human",
+        "age": "29",
+        "occupation": "Soldier",
+        "traits": [
+            "Speedy"
+        ]
+    },
+    {
+        "id": "moongolem",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/Moon Golem.mov",
+        "name": "Broccolineck",
+        "race": "Moon Golem",
+        "age": "87",
+        "occupation": "Actor",
+        "traits": [
+            "Lazy"
+        ]
+    },
+    {
+        "id": "pixie",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/Pixie.mov",
+        "name": "Wendy",
+        "race": "Pixie",
+        "age": "17",
+        "occupation": "Wine-maker",
+        "traits": [
+            "Compulsive liar"
+        ]
+    },
+    {
+        "id": "queenofdeath",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/Queen of Death.mov",
+        "name": "Queen of Death",
+        "race": "Undead",
+        "age": "???",
+        "occupation": "Monarch",
+        "traits": [
+            "Sociopathic"
+        ]
+    },
+    {
+        "id": "skeletonking",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/Skeleton King.mov",
+        "name": "Rob",
+        "race": "Undead",
+        "age": "54",
+        "occupation": "Castle Guard",
+        "traits": [
+            "Talented musician"
+        ]
+    },
+    {
+        "id": "skuld",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/Skuld.mov",
+        "name": "Skuld",
+        "race": "???",
+        "age": "???",
+        "occupation": "???",
+        "traits": [
+            "Exists"
+        ]
+    },
+    {
+        "id": "vorbeck",
+        "video": "assets/img/FINAL_VIDEO OUTPUTS/Vorbeck.mov",
+        "name": "Vorbeck",
+        "race": "Human",
+        "age": "42",
+        "occupation": "Sellsword",
+        "traits": [
+            "Alcoholic"
         ]
     }
 ]
