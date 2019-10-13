@@ -12,7 +12,9 @@
             "Quick-witted"
         ],
         "prev": "null",
-        "next": "babymac"
+        "next": "babymac",
+        "body": "Lorem ipsum\nDolor Sit Amet"
+        
     },
     {
         "id": "babymac",
@@ -25,7 +27,8 @@
             "Unending appetite"
         ],
         "prev": "artemis",
-        "next": "clogg"
+        "next": "clogg",
+        "body": "Lorem ipsum\nDolor Sit Amet"
     },
     {
         "id": "clogg",
@@ -38,7 +41,8 @@
             "No-nonsense attitude"
         ],
         "prev": "babymac",
-        "next": "dazzle"
+        "next": "dazzle",
+        "body": "Lorem ipsum\nDolor Sit Amet"
     },
     {
         "id": "dazzle",
@@ -51,7 +55,8 @@
             "Quiet"
         ],
         "prev": "clogg",
-        "next": "death"
+        "next": "death",
+        "body": "Lorem ipsum\nDolor Sit Amet"
     },
     {
         "id": "death",
@@ -64,7 +69,8 @@
             "Gallows humor"
         ],
         "prev": "dazzle",
-        "next": "earthgolem"
+        "next": "earthgolem",
+        "body": "Lorem ipsum\nDolor Sit Amet"
     },
     {
         "id": "earthgolem",
@@ -77,7 +83,8 @@
             "Smelly"
         ],
         "prev": "death",
-        "next": "fatmac"
+        "next": "fatmac",
+        "body": "Lorem ipsum\nDolor Sit Amet"
     },
     {
         "id": "fatmac",
@@ -90,7 +97,8 @@
             "Obese"
         ],
         "prev": "earthgolem",
-        "next": "hound"
+        "next": "hound",
+        "body": "Lorem ipsum\nDolor Sit Amet"
     },
     {
         "id": "hound",
@@ -103,7 +111,8 @@
             "A good boy"
         ],
         "prev": "fatmac",
-        "next": "huntermac"
+        "next": "huntermac",
+        "body": "Lorem ipsum\nDolor Sit Amet"
     },
     {
         "id": "huntermac",
@@ -116,7 +125,8 @@
             "Pacifist at heart"
         ],
         "prev": "hound",
-        "next": "josephina"
+        "next": "josephina",
+        "body": "Lorem ipsum\nDolor Sit Amet"
     },
     {
         "id": "josephina",
@@ -129,7 +139,8 @@
             "Speedy"
         ],
         "prev": "huntermac",
-        "next": "moongolem"
+        "next": "moongolem",
+        "body": "Lorem ipsum\nDolor Sit Amet"
     },
     {
         "id": "moongolem",
@@ -142,7 +153,8 @@
             "Lazy"
         ],
         "prev": "josephina",
-        "next": "pixie"
+        "next": "pixie",
+        "body": "Lorem ipsum\nDolor Sit Amet"
     },
     {
         "id": "pixie",
@@ -155,7 +167,8 @@
             "Compulsive liar"
         ],
         "prev": "moongolem",
-        "next": "queenofdeath"
+        "next": "queenofdeath",
+        "body": "Lorem ipsum\nDolor Sit Amet"
     },
     {
         "id": "queenofdeath",
@@ -168,7 +181,8 @@
             "Sociopathic"
         ],
         "prev": "pixie",
-        "next": "skeletonking"
+        "next": "skeletonking",
+        "body": "Lorem ipsum\nDolor Sit Amet"
     },
     {
         "id": "skeletonking",
@@ -181,7 +195,8 @@
             "Talented musician"
         ],
         "prev": "queenofdeath",
-        "next": "skuld"
+        "next": "skuld",
+        "body": "Lorem ipsum\nDolor Sit Amet"
     },
     {
         "id": "skuld",
@@ -194,7 +209,8 @@
             "Exists"
         ],
         "prev": "skeletonking",
-        "next": "vorbeck"
+        "next": "vorbeck",
+        "body": "Lorem ipsum\nDolor Sit Amet"
     },
     {
         "id": "vorbeck",
@@ -207,7 +223,8 @@
             "Alcoholic"
         ],
         "prev": "skuld",
-        "next": "null"
+        "next": "null",
+        "body": "Lorem ipsum\nDolor Sit Amet"
     }
 ]
 
