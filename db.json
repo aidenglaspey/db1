@@ -10,7 +10,9 @@
         "occupation": "Mercenary",
         "traits": [
             "Quick-witted"
-        ]
+        ],
+        "prev": "",
+        "next": "babymac"
     },
     {
         "id": "babymac",
@@ -21,7 +23,9 @@
         "occupation": "Infant",
         "traits": [
             "Unending appetite"
-        ]
+        ],
+        "prev": "artemis",
+        "next": "clogg"
     },
     {
         "id": "clogg",
@@ -32,7 +36,9 @@
         "occupation": "Cab Driver",
         "traits": [
             "No-nonsense attitude"
-        ]
+        ],
+        "prev": "babymac",
+        "next": "dazzle"
     },
     {
         "id": "dazzle",
@@ -43,7 +49,9 @@
         "occupation": "Dancer",
         "traits": [
             "Quiet"
-        ]
+        ],
+        "prev": "clogg",
+        "next": "death"
     },
     {
         "id": "death",
@@ -54,7 +62,9 @@
         "occupation": "Harvester",
         "traits": [
             "Gallows humor"
-        ]
+        ],
+        "prev": "dazzle",
+        "next": "earthgolem"
     },
     {
         "id": "earthgolem",
@@ -65,7 +75,9 @@
         "occupation": "Retail Clerk",
         "traits": [
             "Smelly"
-        ]
+        ],
+        "prev": "death",
+        "next": "fatmac"
     },
     {
         "id": "fatmac",
@@ -76,7 +88,9 @@
         "occupation": "Competitive Eater",
         "traits": [
             "Obese"
-        ]
+        ],
+        "prev": "earthgolem",
+        "next": "hound"
     },
     {
         "id": "hound",
@@ -87,7 +101,9 @@
         "occupation": "Companion",
         "traits": [
             "A good boy"
-        ]
+        ],
+        "prev": "fatmac",
+        "next": "huntermac"
     },
     {
         "id": "huntermac",
@@ -98,7 +114,9 @@
         "occupation": "Hunter",
         "traits": [
             "Pacifist at heart"
-        ]
+        ],
+        "prev": "hound",
+        "next": "josephina"
     },
     {
         "id": "josephina",
@@ -109,7 +127,9 @@
         "occupation": "Soldier",
         "traits": [
             "Speedy"
-        ]
+        ],
+        "prev": "huntermac",
+        "next": "moongolem"
     },
     {
         "id": "moongolem",
@@ -120,7 +140,9 @@
         "occupation": "Actor",
         "traits": [
             "Lazy"
-        ]
+        ],
+        "prev": "josephina",
+        "next": "pixie"
     },
     {
         "id": "pixie",
@@ -131,7 +153,9 @@
         "occupation": "Wine-maker",
         "traits": [
             "Compulsive liar"
-        ]
+        ],
+        "prev": "moongolem",
+        "next": "queenofdeath"
     },
     {
         "id": "queenofdeath",
@@ -142,7 +166,9 @@
         "occupation": "Monarch",
         "traits": [
             "Sociopathic"
-        ]
+        ],
+        "prev": "pixie",
+        "next": "skeletonking"
     },
     {
         "id": "skeletonking",
@@ -153,7 +179,9 @@
         "occupation": "Castle Guard",
         "traits": [
             "Talented musician"
-        ]
+        ],
+        "prev": "queenofdeath",
+        "next": "skuld"
     },
     {
         "id": "skuld",
@@ -164,7 +192,9 @@
         "occupation": "???",
         "traits": [
             "Exists"
-        ]
+        ],
+        "prev": "skeletonking",
+        "next": "vorbeck"
     },
     {
         "id": "vorbeck",
@@ -175,7 +205,9 @@
         "occupation": "Sellsword",
         "traits": [
             "Alcoholic"
-        ]
+        ],
+        "prev": "skuld",
+        "next": ""
     }
 ]
 
