@@ -11,7 +11,7 @@
         "traits": [
             "Quick-witted"
         ],
-        "prev": "",
+        "prev": "null",
         "next": "babymac"
     },
     {
@@ -207,7 +207,7 @@
             "Alcoholic"
         ],
         "prev": "skuld",
-        "next": ""
+        "next": "null"
     }
 ]
 
