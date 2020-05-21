@@ -3,7 +3,7 @@
 "Actor": [
     {
         "id": "artemis",
-        "video": "https://www.youtube.com/embed/EYFOE5GPJhI",
+        "video": "EYFOE5GPJhI",
         "name": "Artemis",
         "race": "Human",
         "age": "34",
@@ -18,7 +18,7 @@
     },
     {
         "id": "babymac",
-        "video": "assets/img/FINAL_VIDEO OUTPUTS/BabyMac.mov",
+        "video": "-xiRop2Q9EQ",
         "name": "BabyMac",
         "race": "Mac",
         "age": "3 Months",
@@ -32,7 +32,7 @@
     },
     {
         "id": "clogg",
-        "video": "assets/img/FINAL_VIDEO OUTPUTS/Clogg.mov",
+        "video": "lBnU-9T9TEI",
         "name": "Clogg",
         "race": "Clogg",
         "age": "6185",
@@ -46,7 +46,7 @@
     },
     {
         "id": "dazzle",
-        "video": "assets/img/FINAL_VIDEO OUTPUTS/Dazzle.mov",
+        "video": "BCzNFTChkyU",
         "name": "Dazzle",
         "race": "Humanoid",
         "age": "25",
@@ -60,7 +60,7 @@
     },
     {
         "id": "death",
-        "video": "assets/img/FINAL_VIDEO OUTPUTS/Death.mov",
+        "video": "d3NtAf33jbU",
         "name": "Death",
         "race": "Undead",
         "age": "???",
@@ -74,7 +74,7 @@
     },
     {
         "id": "earthgolem",
-        "video": "assets/img/FINAL_VIDEO OUTPUTS/Earth Golem.mov",
+        "video": "HL1ytguiSlQ",
         "name": "Tom",
         "race": "Earth Golem",
         "age": "186",
@@ -88,7 +88,7 @@
     },
     {
         "id": "fatmac",
-        "video": "assets/img/FINAL_VIDEO OUTPUTS/FatMac.mov",
+        "video": "SyoZVHSeQ-I",
         "name": "FatMac",
         "race": "Mac",
         "age": "52",
@@ -102,7 +102,7 @@
     },
     {
         "id": "hound",
-        "video": "assets/img/FINAL_VIDEO OUTPUTS/Hound.mov",
+        "video": "YlDw6YQPoe4",
         "name": "Fido",
         "race": "Canis",
         "age": "7",
@@ -116,7 +116,7 @@
     },
     {
         "id": "huntermac",
-        "video": "assets/img/FINAL_VIDEO OUTPUTS/HunterMac.mov",
+        "video": "iVzurINPnqc",
         "name": "HunterMac",
         "race": "Mac",
         "age": "40",
@@ -130,7 +130,7 @@
     },
     {
         "id": "josephina",
-        "video": "assets/img/FINAL_VIDEO OUTPUTS/Josephina.mov",
+        "video": "VbnBAAr-X18",
         "name": "Josephina",
         "race": "Human",
         "age": "29",
@@ -144,7 +144,7 @@
     },
     {
         "id": "moongolem",
-        "video": "assets/img/FINAL_VIDEO OUTPUTS/Moon Golem.mov",
+        "video": "v71XeyFpocA",
         "name": "Broccolineck",
         "race": "Moon Golem",
         "age": "87",
@@ -158,7 +158,7 @@
     },
     {
         "id": "pixie",
-        "video": "assets/img/FINAL_VIDEO OUTPUTS/Pixie.mov",
+        "video": "dPhYfxSi9PM",
         "name": "Wendy",
         "race": "Pixie",
         "age": "17",
@@ -172,7 +172,7 @@
     },
     {
         "id": "queenofdeath",
-        "video": "assets/img/FINAL_VIDEO OUTPUTS/Queen of Death.mov",
+        "video": "yVXIgrTjc1I",
         "name": "Queen of Death",
         "race": "Undead",
         "age": "???",
@@ -186,7 +186,7 @@
     },
     {
         "id": "skeletonking",
-        "video": "assets/img/FINAL_VIDEO OUTPUTS/Skeleton King.mov",
+        "video": "Y40KPbDDSOI",
         "name": "Rob",
         "race": "Undead",
         "age": "54",
@@ -200,7 +200,7 @@
     },
     {
         "id": "skuld",
-        "video": "assets/img/FINAL_VIDEO OUTPUTS/Skuld.mov",
+        "video": "idhOhwoKqWc",
         "name": "Skuld",
         "race": "???",
         "age": "???",
@@ -214,7 +214,7 @@
     },
     {
         "id": "vorbeck",
-        "video": "assets/img/FINAL_VIDEO OUTPUTS/Vorbeck.mov",
+        "video": "8gi432AESxk",
         "name": "Vorbeck",
         "race": "Human",
         "age": "42",
